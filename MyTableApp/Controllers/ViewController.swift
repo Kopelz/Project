@@ -9,6 +9,8 @@ import UIKit
 
 class ViewController: UIViewController {
     
+    var testGitHub = 1
+    
     var tasks = Sourse.createGroup() 
     let picker = UIPickerView(frame: .zero)
     
